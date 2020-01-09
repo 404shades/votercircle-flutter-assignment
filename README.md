@@ -12,6 +12,8 @@ A new Flutter project.
 
 - First Page will have a plus icon at bottom right which will take you to login screen if not authenticated or to Create Post screen if already authenticated
 
+- Generated apk is added to release tab on github
+
 - Login Credentials to authenticate user 
     
 ## userName - rohan
