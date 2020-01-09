@@ -1,0 +1,20 @@
+{
+    "all_comments": [
+        {
+            "comment_message": "All is well",
+            "post_id": 1,
+            "comment_id":1,
+            "comment_author": "Rohan Malik",
+            "author_profile_picture": "assets/images/rohan.jpg",
+            "comment_time":"2020-01-09T10:28:59+0000",
+            "reply": [
+                {
+                    "comment_message": "Thank You",
+                    "comment_author": "Rohan Malik",
+                    "reply_time":"2020-01-09T10:28:59+0000",
+                    "author_profile_picture": "assets/images/rohan.jpg"
+                }
+            ]
+        }
+    ]
+}

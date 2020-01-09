@@ -1,0 +1,49 @@
+{
+    "post_results": [
+        {
+            "post_id": 1,
+            "background_poster": "assets/images/rocky-back.jpg",
+            "frontside_poster": "assets/images/ali-paint.jpg",
+            "title": "Muhammad Ali",
+            "quote1": "`Don't count the days",
+            "quote2": "make the days count`",
+            "description": "Muhammad Ali was a boxer, philanthropist and social activist who is universally regarded as one of the greatest athletes of the 20th century. Ali became an Olympic gold medalist in 1960 and the world heavyweight boxing champion in 1964. "
+        },
+        {
+            "post_id": 2,
+            "background_poster": "assets/images/ipad-back.jpg",
+            "frontside_poster": "assets/images/ipad-small.jpg",
+            "title": "iPad Pro",
+            "quote1": "`Apple launches iPad Pro",
+            "quote2": "globally starting at 100$`",
+            "description": "The Apple iPad Pro is a 12.9-inch touch screen tablet PC that is larger and offers higher resolution than Apple's other iPad models. The iPad Pro was scheduled to debut in November 2015, running the iOS 9 operating system."
+        },
+        {
+            "post_id": 3,
+            "background_poster": "assets/images/airline-large.jpg",
+            "frontside_poster": "assets/images/airline-small.jpg",
+            "title": "Lufthansa Airlines",
+            "quote1": "`The use of travelling is to",
+            "quote2": "regulate imagination by reality`",
+            "description": "Deutsche Lufthansa AG, commonly known as Lufthansa, is the flag carrier and largest German airline which, when combined with its subsidiaries, is also the largest airline in Europe in terms of passengers carried."
+        },
+        {
+            "post_id": 4,
+            "background_poster": "assets/images/australia-back.jpg",
+            "frontside_poster": "assets/images/kangaroo.jpg",
+            "title": "Australia bushfire",
+            "quote1": "`Australia urged to evacuate",
+            "quote2": "as monster bushfire regenerate`",
+            "description": "The Australian Academy of Science has released a video summarising some of the devastating, complex and widespread impacts of the bushfire crisis on Australia’s native wildlife."
+        },
+        {
+            "post_id": 4,
+            "background_poster": "assets/images/brooklyn-back.jpg",
+            "frontside_poster": "assets/images/brooklyn.jpg",
+            "title": "Brooklyn Bridge",
+            "quote1": "`The streets will make",
+            "quote2": "you feel brand new`",
+            "description": "The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City. It connects the boroughs of Manhattan and Brooklyn, spanning the East River. The Brooklyn Bridge has a main span of 1,595.5 feet and a deck height of 127 ft above Mean High Water."
+        }
+    ]
+}
