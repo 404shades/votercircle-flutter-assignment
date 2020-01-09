@@ -2,6 +2,22 @@
 
 A new Flutter project.
 
+## App Flow
+
+- Initially you will see all the posts available. These posts are being read from a local json file. Swipe left or right to see more posts
+
+- Click on view comments to read comments and add new comment to that post
+
+- You can like, dislike or reply to any comment.
+
+- First Page will have a plus icon at bottom right which will take you to login screen if not authenticated or to Create Post screen if already authenticated
+
+- Login Credentials to authenticate user 
+    
+# userName - rohan
+# password - rohan
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

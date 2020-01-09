@@ -18,7 +18,7 @@ class SinglePost extends StatelessWidget {
         fit: StackFit.expand,
         children: <Widget>[
           FadeInImage(
-            fadeInDuration: Duration(milliseconds: 600),
+            fadeInDuration: Duration(milliseconds: 300),
             placeholder: MemoryImage(kTransparentImage),
             image: AssetImage(backgroundPicture),
             fit: BoxFit.cover,
